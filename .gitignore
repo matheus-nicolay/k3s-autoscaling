@@ -1,0 +1,5 @@
+terraform/terraform_worker_node/.terraform
+terraform/terraform_vpc/.terraform
+terraform/terraform_master_node/.terraform
+terraform/terraform_eks/.terraform
+terraform/provider.tf
